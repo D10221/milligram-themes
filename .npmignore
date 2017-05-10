@@ -10,5 +10,5 @@ component.json
 composer.json
 package.js
 package.json
-src
+# src
 test

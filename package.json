@@ -1,12 +1,13 @@
 {
-	"name": "milligram-themes",
-	"version": "0.0.1",
-	"description": "A minimalist CSS framework on color themes.",
-	"homepage": "http://milligram.github.io",
-	"repository": "milligram/milligram-themes",
+	"name": "milligram-themes-clone",
+	"version": "1.0.0",
+	"description": "milligram themes clone",
+	"homepage": "https://github.com/D10221/milligram-themes#readme",
+	"repository": "https://github.com/D10221/milligram-themes",
 	"license": "MIT",
 	"author": "CJ Patoilo <cjpatoilo@gmail.com>",
 	"main": "dist/milligram.sass",
+	"private": true,
 	"keywords": [
 		"bootstrap",
 		"css",
